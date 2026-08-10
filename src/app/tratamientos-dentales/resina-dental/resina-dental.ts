@@ -1,4 +1,3 @@
-// BORRADOR — la Dra. debe revisar la exactitud clínica antes de publicar.
 export const resinaDentalData = {
   titulo: "Resina Dental",
   heroImage: "/sandra.webp",

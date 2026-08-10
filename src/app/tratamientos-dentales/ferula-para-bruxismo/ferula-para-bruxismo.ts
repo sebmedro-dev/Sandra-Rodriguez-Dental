@@ -1,4 +1,3 @@
-// BORRADOR — la Dra. debe revisar la exactitud clínica antes de publicar.
 export const ferulaBruxismoData = {
   titulo: "Férula para Bruxismo",
   heroImage: "/consultorio_2.webp",

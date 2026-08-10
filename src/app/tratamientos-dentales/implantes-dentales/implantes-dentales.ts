@@ -1,4 +1,3 @@
-// BORRADOR — la Dra. debe revisar la exactitud clínica antes de publicar.
 // Nota: la colocación quirúrgica del implante se realiza en colaboración con un
 // especialista aliado; la clínica realiza la planificación y la prótesis/corona.
 export const implantesDentalesData = {
